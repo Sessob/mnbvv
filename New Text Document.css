@@ -1,0 +1,102 @@
+body {
+    background-color: antiquewhite;
+}
+
+.fixed-hedear{
+    background-color: black;
+    color:white;
+    flex-wrap: wrap;
+    display: flex;
+    position: relative;
+    left: 326px;
+   box-sizing: border-box;
+    width: 400px;
+    margin: a0 auto;
+    width: 400px;
+    height: 66.81px;
+
+}
+
+.hedeaecountact1{
+    position:relative ;
+    left: 18%;
+    background-color: #4c819b;
+    box-sizing: border-box;
+    padding: 5px;
+    background-color: #4c819b;
+    box-sizing: border-box;
+    padding: 3px;
+    border: 3px black solid;
+    border-radius: 32%;
+
+    
+}
+
+
+.hedeaecountact2{
+    position:relative ;
+    left: 24%;;
+    background-color: #4c819b;
+    box-sizing: border-box;
+    padding: 3px;
+    border: 3px black solid;
+    border-radius: 32%;
+
+}
+
+.hedeaecountact3{
+    position: relative;
+    left: 29%;
+    background-color: #4c819b;
+    box-sizing: border-box;
+    padding: 3px;
+    border: 3px black solid;
+    border-radius: 32%;
+}
+
+
+
+.card-conatiner{
+    background-color: brown;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    margin: 20px;
+    
+}
+
+.first-card{
+width: 300px;
+box-shadow: 4px 6px 10px black;
+box-sizing: border-box;
+padding: 10px 0%;
+margin: 12px;
+height: 300px;
+overflow: scroll;
+text-align: center;
+}
+
+
+.first-card:hover   {
+box-shadow: 20px 23px 30px gold;
+}
+.first-image{
+    width: 100%;
+}
+
+.first-information {
+background-color: blueviolet;
+color:white;
+}
+
+
+.first-cardbiodata{
+    text-align:center;
+    font-size: 30px;
+}
+
+.first-cardtext{
+text-align: unset;
+}
+
